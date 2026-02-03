@@ -13,7 +13,7 @@ A console-based Chatbot built in Python. Perfect for learning dictionaries, func
 
 Clone the repo (or just download the ZIP if you prefer):
 bash
-git clone https://github.com/Emusan-01/Python-simple-chatbot.git
+git clone https://github.com/Emusan-01/Simple-Chatbot.git
 cd Python-simple-chatbot
 
 # Run it!
@@ -30,5 +30,5 @@ python chatbot.py
 
 ## 📸 Demo
 
-![Phone Book Demo](demo.jpg)
+![Phone Book Demo](demo1.jpg)
 
